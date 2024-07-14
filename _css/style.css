@@ -1,0 +1,50 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Play:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Play:wght@400;700&family=Share+Tech+Mono&display=swap');
+
+body {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    background-color: #333;
+}
+
+header {
+    position: absolute;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    top: 0;
+}
+
+header a {
+    right: 14px;
+    top: 22px;
+}
+
+h1 {
+    position: relative;
+    top: 0;
+    font-family: "Play", sans-serif;
+    font-size: 82px;
+    padding: 0;
+}
+
+h2 {
+    position: relative;
+    margin-top: 0px;
+    margin-left: 14px;
+    font-family: Share Tech Mono;
+    font-size: 20px;
+    padding: 0;    
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
